@@ -1,0 +1,19 @@
+codigo|nombre|precio
+P-001|Pescado|12.65
+P-002|Leche|74.54
+P-003|Carton de huevos|139
+P-004|Queso|75.28
+P-005|Saco de Arroz|957.82
+P-006|Aceite|70.99
+P-007|Pasta Dental|40.68
+P-008|Jabon|30.48
+P-009|Detergente|92.43
+P-010|Takis|15.37
+P-011|Carton de Jugo|75.54
+P-012|Pinta de Helado|329.82
+P-013|Refresco|62.86
+P-014|Cebolla|23.48
+P-015|Ají |26.76
+P-016|Leche|49.23
+P-017|Café|16.02
+P-018|Donas|27.87

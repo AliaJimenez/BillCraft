@@ -1,0 +1,14 @@
+C:\Users\alian\Desktop\P2\SistemadeFacturación\bin\Debug\net9.0\SistemadeFacturación.exe
+C:\Users\alian\Desktop\P2\SistemadeFacturación\bin\Debug\net9.0\SistemadeFacturación.deps.json
+C:\Users\alian\Desktop\P2\SistemadeFacturación\bin\Debug\net9.0\SistemadeFacturación.runtimeconfig.json
+C:\Users\alian\Desktop\P2\SistemadeFacturación\bin\Debug\net9.0\SistemadeFacturación.dll
+C:\Users\alian\Desktop\P2\SistemadeFacturación\bin\Debug\net9.0\SistemadeFacturación.pdb
+C:\Users\alian\Desktop\P2\SistemadeFacturación\obj\Debug\net9.0\SistemadeFacturación.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alian\Desktop\P2\SistemadeFacturación\obj\Debug\net9.0\SistemadeFacturación.AssemblyInfoInputs.cache
+C:\Users\alian\Desktop\P2\SistemadeFacturación\obj\Debug\net9.0\SistemadeFacturación.AssemblyInfo.cs
+C:\Users\alian\Desktop\P2\SistemadeFacturación\obj\Debug\net9.0\SistemadeFacturación.csproj.CoreCompileInputs.cache
+C:\Users\alian\Desktop\P2\SistemadeFacturación\obj\Debug\net9.0\SistemadeFacturación.dll
+C:\Users\alian\Desktop\P2\SistemadeFacturación\obj\Debug\net9.0\refint\SistemadeFacturación.dll
+C:\Users\alian\Desktop\P2\SistemadeFacturación\obj\Debug\net9.0\SistemadeFacturación.pdb
+C:\Users\alian\Desktop\P2\SistemadeFacturación\obj\Debug\net9.0\SistemadeFacturación.genruntimeconfig.cache
+C:\Users\alian\Desktop\P2\SistemadeFacturación\obj\Debug\net9.0\ref\SistemadeFacturación.dll
