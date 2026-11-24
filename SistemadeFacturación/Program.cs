@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Globalization;
 using System.Dynamic;
 using System.Linq;
 using System.Runtime.InteropServices;
@@ -245,6 +246,10 @@ class Program
     #region Menu de uso del usuario
     static void Main(string[] args)
     {
+        // Cultura fija (República Dominicana) para que fechas y montos se guarden y lean igual en cualquier equipo
+        CultureInfo.DefaultThreadCurrentCulture = CultureInfo.GetCultureInfo("es-DO");
+        CultureInfo.CurrentCulture = CultureInfo.GetCultureInfo("es-DO");
+
         List<Producto> productos = CargarProductos();
         List<Factura> facturas = CargarFacturas(productos);
         string opcion = "";
