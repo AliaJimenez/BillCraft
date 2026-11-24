@@ -17,7 +17,7 @@
 
 | EN | ES |
 |---|---|
-| Product management: add, edit and list the catalog | Gestión de productos: agregar, editar y listar el catálogo |
+| Product management: add products and browse the catalog | Gestión de productos: agregar productos y consultar el catálogo |
 | New sale: pick products and quantities, totals calculated automatically | Nueva venta: elige productos y cantidades, con totales automáticos |
 | Sequential invoice numbers (`F-0001`, `F-0002`…) | Numeración secuencial de facturas |
 | Invoice history with full detail | Historial de facturas con su detalle |
@@ -26,7 +26,7 @@
 
 ## 🛠️ Technical highlights · Detalles técnicos
 
-- Object-oriented model: `Producto`, `Factura` and invoice line items.
+- Object-oriented model: `Producto`, `Factura` and `DetalleFactura`.
 - Manual parsing / serialization of pipe-delimited text records.
 - Fixed `es-DO` culture so dates and amounts are read and written the same way on any machine.
 
